@@ -1,4 +1,6 @@
-# Taller Raspberry
+# Taller Introducción a Raspberry Pi
+
+![](./images/Raspberry_Pi_4_Model_B_-_Side.jpg)
 
 ## Objetivos
 
@@ -15,23 +17,23 @@
 
 ## Público
 
-Tres grupos diferenciados. Se harán dos grupos con un monitor en cada grupo y con
-máximo 15 alumnos por grupo:
-- INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años).
-- SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años).
-- SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años).
+Tres grupos diferenciados. Se harán grupos con un  máximo 15 alumnos por grupo:
+
+- Infantil y 1er  ciclo de Primaria (3-7 años).
+- 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años).
+- 2º ciclo de ESO y  Bachillerato (14-18 años).
 
 
 ## Actividades
 
 
-### INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años). Duración: 1 sesión de 1 hora
+### Infantil y 1er  ciclo de Primaria (3-7 años). Duración: 1 sesión de 1 hora
 
 * ¿Qué es una Raspberry Pi?
 * ¿Para qué la usarías?
 * Jugando con Raspberry Pi
 
-### SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años). 2 sesiones de 1 hora
+### 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años). 2 sesiones de 1 hora
 
 Sesión 1
 
@@ -42,12 +44,13 @@ Sesión 1
 * Acceso a internet
 
 Sesión 2
+
 * Conexión entre Raspberries
 * Instalación y uso de programas
 * Programación con Raspberry
 
 
-### SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años). Duración: 2 sesiones de 1.5 horas
+### 2º ciclo de ESO y  Bachillerato (14-18 años). Duración: 2 sesiones de 1.5 horas
 
 Sesión 1
 
@@ -58,6 +61,7 @@ Sesión 1
 * Uso de Raspberry Pi
 
 Sesión 2
+
 * Conexión entre Raspberries
 * Comandos
 * Instalación y uso de programas

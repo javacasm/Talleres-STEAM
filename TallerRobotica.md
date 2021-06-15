@@ -1,4 +1,6 @@
-# Taller Robótica
+# Taller Introducción a la Robótica
+
+![](./images/robot2wd.jpg)
 
 ## Objetivos
 
@@ -14,47 +16,47 @@
 
 ## Público
 
-Tres grupos diferenciados. Se harán dos grupos con un monitor en cada grupo y con
-máximo 15 alumnos por grupo:
-- INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años).
-- SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años).
-- SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años).
+Tres grupos diferenciados. Se harán grupos con un  máximo 15 alumnos por grupo:
+
+- Infantil y 1er  ciclo de Primaria (3-7 años).
+- 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años).
+- 2º ciclo de ESO y  Bachillerato (14-18 años).
 
 
 ## Actividades
 
 
-### INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años). Duración: 1 sesión de 1 hora
+### Infantil y 1er  ciclo de Primaria (3-7 años). Duración: 1 sesión de 1 hora
 
 * ¿Qué es un robot?
 * ¿Hay robots a nuestro alrededor?
 * ¿Cómo funciona un robot?
 * Idendificar las partes de un robot
 
-### SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años). Duración: 2 sesiones de 1 hora
+### 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años). Duración: 2 sesiones de 1 hora
 
-Sesión 1:
+#### Sesión 1:
 
 * ¿Qué es un robot?
 * ¿Cómo funciona un robot?
 * Montaje de un robot sencillo
 * ¿Cómo se programa un robot?
 
-Sesión 2:
+#### Sesión 2:
 
 * Programación de un robot
 * Pruebas de funcionamiento del robot
 
-### SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años). Duración: 2 sesiones de 1.5 horas
+### 2º ciclo de ESO y  Bachillerato (14-18 años). Duración: 2 sesiones de 1.5 horas
 
-Sesión 1:
+#### Sesión 1:
 
 * ¿Qué es un robot?
 * ¿Cómo funciona un robot?
 * Montaje de un robot sencillo
 * Programación de robots
 
-Sesión 2:
+#### Sesión 2:
 
 * Programación avanzada
 * Pruebas de funcionamiento del robot
@@ -63,6 +65,7 @@ Sesión 2:
 
 * Kit de arduino
 * [Kit para robot](https://es.aliexpress.com/item/32541422454.html)
+![](./images/kit_robot_2wd.jpg)
 * Ordenadores/tablets (se podrían usar las Raspberry)
 
 

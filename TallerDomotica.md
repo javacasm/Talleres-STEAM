@@ -1,4 +1,6 @@
-# Taller Domótica
+# Taller Introducción a la Domótica
+
+![](./images/riegoArduino.png)
 
 ## Objetivos
 
@@ -17,48 +19,51 @@ Trabajaremos en implementar una casa domótica conectada con los siguientes elem
 
 ## Público
 
-Tres grupos diferenciados. Se harán dos grupos con un monitor en cada grupo y con
-máximo 15 alumnos por grupo:
-- INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años).
-- SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años).
-- SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años).
+Tres grupos diferenciados. Se harán grupos con un  máximo 15 alumnos por grupo:
+
+- Infantil y 1er  ciclo de Primaria (3-7 años).
+- 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años).
+- 2º ciclo de ESO y  Bachillerato (14-18 años).
 
 
 ## Actividades
 
 
-### INFANTIL Y PRIMER CICLO DE PRIMARIA (3-7 años). Duración: Una sesión de 1 hora
+### Infantil y 1er  ciclo de Primaria (3-7 años). Duración: Una sesión de 1 hora
 
-* Qué es la domótica
+* ¿Qué es la domótica?
 * ¿Qué usos se te ocurren?
 * Ejemplo de sistema de riego
 
 
 
-### SEGUNDO CICLO DE PRIMARIA Y PRIMER CICLO DE LA ESO (8-13 años). 2 sesiones de 1 hora
+### 2º ciclo de Primara y 1er ciclo de la ESO (8-13 años). 2 sesiones de 1 hora
 
-Sesión 1:
+#### Sesión 1:
+
 * Qué es la domótica
 * ¿Qué usos se te ocurren?
 * Montaje de un sistema de riego
 
-Sesión 2:
+#### Sesión 2:
+
 * Programación del sistema de riego
 * Pruebas del sistema
 
-### SEGUNDO CICLO DE LA ESO Y BACHILLERATO (14-18 años). Duración: 2 sesiones de 1.5 horas
+### 2º ciclo de ESO y  Bachillerato (14-18 años). Duración: 2 sesiones de 1.5 horas
 
-Sesión 1:
+#### Sesión 1:
+
 * Qué es la domótica
 * ¿Qué usos se te ocurren?
 * Montaje de un sistema de riego
 * Primera programación del sistema de riego
 
-Sesión 2:
+#### Sesión 2:
+
 * Montaje de un sistema de iluminación automática
 * Programación del sistema
 * Pruebas del sistema 
-
 
 
 ### Materiales

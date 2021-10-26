@@ -1,4 +1,4 @@
-# Taller Introducción a los Drones
+# Taller Introducción a micro:bit
 
 ![](./images/micro:bit_front.png)
 
